@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 1sss
+=======
+iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+aaaaaaaaaaaaaa
+aaaaaaaaa
+>>>>>>> aaa
